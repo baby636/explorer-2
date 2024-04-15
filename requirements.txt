@@ -13,3 +13,4 @@ python-postmark==0.5.3
 psycopg2==2.8.5
 raven==6.10.0
 requests==2.23.0
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
